@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">BuscaTrabajo</string>
+    <string name="title_activity_job_detail">Detalle del Trabajo</string>
+    <string name="sync">Sincronizar</string>
+    <string name="post_job">Enviar Trabajo</string>
+    <string name="synchronizing">Sincronizando</string>
+    <string name="endsynchronizing">Finalizó la actualización de datos</string>
+    <string name="j_title">Título</string>
+    <string name="j_description">Descripción</string>
+    <string name="j_contacts">Contactos</string>
+    <string name="title_activity_post_job">Enviar Trabajo</string>
+    <string name="autor_name">por Fernando Aramayo</string>
+    <string name="endsave">posted job ok</string>
+
+</resources>

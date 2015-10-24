@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="horizontal" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:minHeight="?android:listPreferredItemHeight">
+
+    <TextView
+        android:layout_width="0dp"
+        android:layout_weight="80"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_vertical"
+        android:id="@+id/job_post_title"/>
+    <TextView
+        android:layout_width="0dp"
+        android:layout_weight="30"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_vertical"
+        android:gravity="right"
+        android:id="@+id/job_post_posted_date"/>
+    <ImageView
+        android:layout_width="25sp"
+        android:layout_height="25sp"
+        android:scaleType="fitEnd"
+        android:layout_gravity="center_vertical"
+        android:src="@drawable/arrow_right"
+        />
+</LinearLayout>

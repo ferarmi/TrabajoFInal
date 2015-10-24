@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">SearchJob</string>
+    <string name="title_activity_job_detail">Job Detail</string>
+    <string name="sync">sync</string>
+    <string name="post_job">Post Job</string>
+    <string name="synchronizing">Synchronizing</string>
+    <string name="endsynchronizing">end refresh data</string>
+    <string name="j_title">Title</string>
+    <string name="j_description">Description</string>
+    <string name="j_contacts">Contacts</string>
+    <string name="title_activity_post_job">Post Job</string>
+    <string name="autor_name">by Fernando Aramayo</string>
+    <string name="endsave">posted job ok</string>
+
+</resources>
